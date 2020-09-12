@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+:root{
+    --main-color: rgba(167, 161, 161, 0.81);
+    --orange_color: rgb(192, 83, 11);
+    --red_color: red;
+    --green_color: green;
+    --black_color: #000000;
+
+}
+body{background-color:var(--main_color);
+}
+/* format  */
+*{ font-family: 'Tajawal', sans-serif;margin: 0; padding: 0;}
+
+
+/* for tesponseve  */
+     @media(max-width:800px){
+       
+}
